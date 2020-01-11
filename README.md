@@ -1,20 +1,11 @@
-# **CTF**
+# CTF
 
+## Misc
 
+## Cryto
 
-##**Misc**
+## Forensics
 
+## Binary Exploit
 
-
-## **Cryto**
-
-
-
-## **Forensics**
-
-
-
-## **Binary Exploit**
-
-
-##**Web**
+## Web
